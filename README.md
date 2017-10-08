@@ -1,4 +1,4 @@
-# \<my-first-python\>
+# my-first-python
 
 A simple little command line game for guessing a random number between 0 and 100, just starting to learn some python.
 
